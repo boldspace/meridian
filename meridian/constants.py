@@ -19,8 +19,8 @@ import immutabledict
 # HEX color map.
 BLACK_100 = '#000000'
 
-BLUE_700 = '#1967D2'
-BLUE_600 = '#201449'
+BLUE_700 = '#201449'
+BLUE_600 = '#342173'
 BLUE_400 = '#669DF6'
 BLUE_500 = '#4285F4'
 BLUE_300 = '#8AB4F8'
